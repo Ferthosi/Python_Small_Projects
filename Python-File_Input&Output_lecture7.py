@@ -1,0 +1,1 @@
+#Open, read & close file
